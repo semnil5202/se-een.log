@@ -1,4 +1,4 @@
-# getInitialProps d
+# getInitialProps
 
 각 페이지 접속 (또는 전환) 시 서버 또는 클라이언트 측에서 수행할 작업을 명시할 수 있는 함수이다. [현재는 Legacy API로 분류되어 있으며](https://nextjs.org/docs/pages/api-reference/functions/get-initial-props) 상황에 맞게 아래의 것들을 사용할 것을 권장하고 있다.
 
